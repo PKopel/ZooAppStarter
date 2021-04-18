@@ -1,2 +1,2 @@
 # ZooAppStarter
-Simple program managing a app with ZooKeeper
+Simple program managing an app with ZooKeeper
